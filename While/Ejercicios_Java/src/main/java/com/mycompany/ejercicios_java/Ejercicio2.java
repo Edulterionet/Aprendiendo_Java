@@ -9,7 +9,7 @@ public class Ejercicio2 {
           int numero = src.nextInt();
         while(numero != 0){
             suma += numero;
-             System.out.println("Ingrese otro numero: ");
+            System.out.println("Ingrese otro numero: ");
             numero = src.nextInt();
             
         }
