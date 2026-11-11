@@ -9,6 +9,6 @@ public class Ejercicio2 {
         System.out.println("Ingrese un numero: ");
         int numero= src.nextInt();
         int resultado= Cuadrado(numero);
-        System.out.println("La potencia de " + numero + " es: " + resultado);
+        System.out.println("El cuadrado de " + numero + " es: " + resultado);
     }
 }
