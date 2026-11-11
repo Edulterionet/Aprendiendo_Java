@@ -5,7 +5,7 @@ public class Ejercicio4 {
        
         System.out.println("--BIENVENIDO--");
         System.out.println("Ingrese una nota: ");
-        int nota = src.nextInt();
+        double nota = src.nextDouble();
         while(nota < 0 || nota > 5){
             
             System.out.println("Ingrese una nota entre 0 y 5");

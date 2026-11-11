@@ -21,6 +21,9 @@ public class Ejercicio5 {
                 break;
             case 3:
                 System.out.println("Hasta la proxima");
+                break;
+                
+            default: System.out.println("Opcion no valida");
         }
         
         }while( opciones != 3);
