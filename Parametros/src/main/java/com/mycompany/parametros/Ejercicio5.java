@@ -12,15 +12,10 @@
 
         public static void main(String[]args){
             int n = 5 ;
-           
-
             int base = 2;
             int altura = 4;
-
-            
             double radio = 3;
             
-
             System.out.println("El area del cuadrado es: "+ area(n));
             System.out.println("El area del rectangulo es: "+ area(base,altura));
             System.out.println("El area del circulo es: "+ area(radio));
